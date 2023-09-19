@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\HotelFinder\HotelFinder.Bussines\bin\Debug\net5.0\HotelFinder.Bussines.deps.json
+C:\Users\User\source\repos\HotelFinder\HotelFinder.Bussines\bin\Debug\net5.0\HotelFinder.Bussines.dll
+C:\Users\User\source\repos\HotelFinder\HotelFinder.Bussines\bin\Debug\net5.0\ref\HotelFinder.Bussines.dll
+C:\Users\User\source\repos\HotelFinder\HotelFinder.Bussines\bin\Debug\net5.0\HotelFinder.Bussines.pdb
+C:\Users\User\source\repos\HotelFinder\HotelFinder.Bussines\bin\Debug\net5.0\HotelFinder.DataAccess.dll
+C:\Users\User\source\repos\HotelFinder\HotelFinder.Bussines\bin\Debug\net5.0\HotelFinder.Entities.dll
+C:\Users\User\source\repos\HotelFinder\HotelFinder.Bussines\bin\Debug\net5.0\HotelFinder.DataAccess.pdb
+C:\Users\User\source\repos\HotelFinder\HotelFinder.Bussines\bin\Debug\net5.0\HotelFinder.Entities.pdb
+C:\Users\User\source\repos\HotelFinder\HotelFinder.Bussines\obj\Debug\net5.0\HotelFinder.Bussines.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\HotelFinder\HotelFinder.Bussines\obj\Debug\net5.0\HotelFinder.Bussines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\HotelFinder\HotelFinder.Bussines\obj\Debug\net5.0\HotelFinder.Bussines.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\HotelFinder\HotelFinder.Bussines\obj\Debug\net5.0\HotelFinder.Bussines.AssemblyInfo.cs
+C:\Users\User\source\repos\HotelFinder\HotelFinder.Bussines\obj\Debug\net5.0\HotelFinder.Bussines.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HotelFinder\HotelFinder.Bussines\obj\Debug\net5.0\HotelFinder.Bussines.csproj.CopyComplete
+C:\Users\User\source\repos\HotelFinder\HotelFinder.Bussines\obj\Debug\net5.0\HotelFinder.Bussines.dll
+C:\Users\User\source\repos\HotelFinder\HotelFinder.Bussines\obj\Debug\net5.0\ref\HotelFinder.Bussines.dll
+C:\Users\User\source\repos\HotelFinder\HotelFinder.Bussines\obj\Debug\net5.0\HotelFinder.Bussines.pdb
